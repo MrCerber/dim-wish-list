@@ -15,8 +15,7 @@ dimwishlist:item=205225492&perks=839105230,1087426260,3418782618,555281244
 
 
 // Hammerhead (god-pve)
-//notes: Абсолют: Перезарядка/Дальность
- tags:god-pve
+//notes: Абсолют: Перезарядка/Дальность tags:god-pve
 dimwishlist:item=211732170&perks=3250034553,1087426260,3425386926,557221067
 
 
